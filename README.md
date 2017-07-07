@@ -10,6 +10,12 @@ To set up the project for development, please follow the following
 steps:
 
 - TODO: Add chosen git workflow's steps here
+- Clone project
+- create feature branch locally e.g., `$git checkout -b adding-skills
+- commit your changes to that branch
+- Push that branch up like, `git push origin adding-skills
+
+## Setup
 - Create a Python 3 virtual environment, don't add your virtual
   environment directory to the repository
 - Install [pip-tools](https://github.com/jazzband/pip-tools)

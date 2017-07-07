@@ -12,7 +12,8 @@ steps:
 - TODO: Add chosen git workflow's steps here
 - Create a Python 3 virtual environment, don't add your virtual
   environment directory to the repository
-- Install [pip-tools](https://github.com/jazzband/pip-tools into you virtual environment.)
+- Install [pip-tools](https://github.com/jazzband/pip-tools)
+  into you virtual environment.
 - Install project requirements with `$ pip-sync requirements.txt`
 
 Note that to add a new project requirement:
